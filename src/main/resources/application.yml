@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: demo
+
+server:
+  port: 8080
+  servlet:
+    encoding:
+      charset: ISO-8859-1
+      enabled: true
+      force: true
